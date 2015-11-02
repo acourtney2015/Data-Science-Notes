@@ -1,0 +1,85 @@
+Analysis | Typical Use 
+
+Regression. Simple trend lines.
+
+Decision trees. Simple decision analysis.
+
+Cluster analysis. Classification.
+
+Time series. Stock tickers.
+
+Text mining. Sentiment analysis.
+
+Ensemble models. Bootstrap aggregating.
+
+Factor analysis. Latent variable exploration.
+
+Neural nets. Function approximation.
+
+Random forests. Classification.
+
+Association rules. Customer behaviour.
+
+Bayesian. Pattern recognition.
+
+Support vector machines (SVM). Classification.
+
+Social network analysis. Marketing and advertising.
+
+Uplift modeling. CRM up-selling.
+
+Survival analysis. Reliability and risk management.
+
+Link analysis. Knowledge discovery.
+
+Genetic algorithms. Phylogenetics.
+
+Splines (MARS). Regression. 
+
+CRAN has pages dedicated to each typical task of statistical computing
+http://cran.r-project.org/web/views/
+
+Python has several packages tailored for statistical analysis including Pandas, Orange, PyBrain and Scikit-learn
+
+TRANSFORMATION
+
+OpenRefine is designed to help journalists and other non technical people organize incomplete data from different sources. http://openrefine.org/
+
+A decent Scrapy presentation by David McLean. He shares his opinion about the evils of scraping.
+https://www.youtube.com/watch?v=eD8XVXLlUTE
+
+David Beazley's Learn Python Through Public Data Hacking. Dabeaz gold.
+https://www.youtube.com/watch?v=RrPZza_vZ3w
+
+Wes McKinney, creator of Pandas gave a 3 hour tutorial on data analysis
+https://www.youtube.com/watch?v=w26x-z-BdWQ
+
+Feel more confident with your Python skills with Raymond Hettinger's Transforming Code into Beautiful Idiomatic Python.
+https://www.youtube.com/watch?v=iTT85DOwEXY
+
+VISUALIZATION (a.k.a. Web publishing)
+
+The best way to dive into visualization is by perusing the canonical examples in the d3.js gallery. Spend some time playing with the demos and ask yourself "How can this become more useful?" Indeed, most of the gallery is frivolous, but the potential is undeniable.
+
+D3 tutorials have come a long way in a short time thanks to people like Scott Murray. He did a great O'Reilly webcast http://oreillynet.com/pub/e/2952
+There's also youtube videos with Mike Dewar and Malcom Maclean has published D3 Tips and Tricks with Leanpub. http://www.d3noob.org/
+
+Other noteworthy visualization platforms are DataWrapper, Flot, Highcharts, TheJit, Arbor.js, and Kartograph. These libraries depend on JavaScript, SVG and CSS, which is why I consider data visualization synonymous with web publishing. 
+
+John Lindquist's Egghead.io covers the details of AngularJS https://www.youtube.com/watch?v=WuiHuZq_cg4
+
+Paul Irish is a star evangelist for HTML5 workflows. He uses a lot of tools in front-end dev.
+https://www.youtube.com/watch?v=vDbbz-BdyYc
+
+Getting Started with Django by Matt Love is most excellent, incompleteness notwithstanding. 
+http://gettingstartedwithdjango.com/
+
+Code Academy has interactive tutorials for Python, JavaScript and web fundamentals http://www.codecademy.com/
+
+Professional trainers are slower paced and cover material that isn't in MOOCs or youtube videos:
+
+Lynda.com - R stats - http://www.lynda.com/R-tutorials/R-Statistics-Essential-Training/14...
+Tutsplus - Say Yo to Yeoman - http://net.tutsplus.com/tutorials/tools-and-tips/say-yo-to-yeoman/
+Pluralsight - Twitter Bootstrap 3 - http://pluralsight.com/training/Courses/TableOfContents/bootstrap-3
+Codeschool - NodeJS - https://www.codeschool.com/courses/real-time-web-with-nodejs
+CBT Nuggets - AWS - http://www.cbtnuggets.com/it-training-videos/course/aws-certificati...
